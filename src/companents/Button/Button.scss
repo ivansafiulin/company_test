@@ -1,0 +1,21 @@
+.btn {
+  display: inline-block;
+  width: 290px;
+  line-height: 41px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #fff;
+  &__primary {
+    background-color: #ef6c00;
+  }
+
+  &__secondary {
+    background-color: #283593;
+  }
+}
+
+.bg--white {
+  display: inline;
+  background-color: #fff;
+  color: #ef6c00;
+}
